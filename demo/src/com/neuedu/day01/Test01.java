@@ -11,7 +11,9 @@ public class Test01 {
 		System.out.print("总数为：" + total); 
 		System.out.println("world");
 		System.out.println("world");
-		System.out.println("hello");}
+		System.out.println("hello");
+		System.out.println("有别人修改了代码");
+	}
 
 
 }

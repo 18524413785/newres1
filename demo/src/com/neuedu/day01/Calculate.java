@@ -36,6 +36,7 @@ public class Calculate {
 		System.out.println("别人修改了，你直接commit会有冲突");
 		
 		System.out.println("二二二二二次次次次次捏人别人别人");
+		System.out.println("我的二次修改");
 	}
 
 }

@@ -34,6 +34,8 @@ public class Calculate {
 		System.out.println("好吧 我pull之后更新了别人的代码");
 		
 		System.out.println("别人修改了，你直接commit会有冲突");
+		
+		System.out.println("二二二二二次次次次次捏人别人别人");
 	}
 
 }

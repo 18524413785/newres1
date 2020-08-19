@@ -32,7 +32,7 @@ public class Calculate {
 		byte r1=-128;
 		System.out.println("我自己写的代码");
 		
-
+		System.out.println("别人修改了，你直接commit会有冲突");
 	}
 
 }

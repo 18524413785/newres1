@@ -13,6 +13,7 @@ public class Test01 {
 		System.out.println("world");
 		System.out.println("hello");
 		System.out.println("有别人修改了代码");
+		System.out.println("pull完之后更新了代码再敲的代码");
 	}
 
 

@@ -37,8 +37,11 @@ public class Calculate {
 		
 		System.out.println("二二二二二次次次次次捏人别人别人");
 		System.out.println("我的二次修改");
+
 		
 		System.out.println("我的三次修改");
+
+		System.out.println("他的三次修改");
 	}
 
 }

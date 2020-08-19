@@ -30,6 +30,7 @@ public class Calculate {
 		System.out.println(p4);
 		
 		byte r1=-128;
+		System.out.println("我自己写的代码");
 		
 
 	}
